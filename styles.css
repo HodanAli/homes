@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .header
+{
+    height: 100vh;
+}
+.navbar-styles
+{
+    box-shadow: 0 5px 10px #efefef;
+}
+.striped {
+    background: linear-gradient(to bottom left, rgb(206, 212, 212) 50%, palegoldenrod 50%);
+ }
+ 
+ 
